@@ -1,0 +1,1 @@
+{"name":"Local: 1030A","url":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\1030A.cpp","tests":[{"id":1779903942161,"input":"3\n0 0 1","output":"HARD"},{"id":1779903963603,"input":"1\n0","output":"EASY"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\1030A.cpp","group":"local","local":true}
