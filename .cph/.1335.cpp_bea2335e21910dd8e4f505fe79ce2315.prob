@@ -1,0 +1,1 @@
+{"name":"Local: 1335","url":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\1335.cpp","tests":[{"id":1780337223244,"input":"6\n7\n1\n2\n3\n2000000000\n763243547","output":"3\n0\n0\n1\n999999999\n381621773"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\1335.cpp","group":"local","local":true}
