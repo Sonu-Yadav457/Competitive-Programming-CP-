@@ -1,0 +1,1 @@
+{"name":"Local: 431A","url":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\431A.cpp","tests":[{"id":1780850420727,"input":"1 2 3 4\n123214","output":"13"},{"id":1780850484506,"input":"1 5 3 2\n11221","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\431A.cpp","group":"local","local":true}
