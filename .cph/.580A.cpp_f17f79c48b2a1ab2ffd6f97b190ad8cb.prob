@@ -1,0 +1,1 @@
+{"name":"Local: 580A","url":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\580A.cpp","tests":[{"id":1781195030160,"input":"6\n2 2 1 3 4 1","output":"3"},{"id":1781195061128,"input":"3\n2 2 9","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\580A.cpp","group":"local","local":true}
