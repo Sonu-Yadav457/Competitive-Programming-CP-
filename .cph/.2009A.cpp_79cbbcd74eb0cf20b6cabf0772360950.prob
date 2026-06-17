@@ -1,0 +1,1 @@
+{"name":"Local: 2009A","url":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\2009A.cpp","tests":[{"id":1781712568418,"input":"3\n1 2\n3 10\n5 5","output":"1\n7\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\2009A.cpp","group":"local","local":true}
