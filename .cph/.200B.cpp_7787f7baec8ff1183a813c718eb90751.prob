@@ -1,0 +1,1 @@
+{"name":"Local: 200B","url":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\200B.cpp","tests":[{"id":1781804616373,"input":"4\n0 25 50 75","output":"37.500000000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\200B.cpp","group":"local","local":true}
