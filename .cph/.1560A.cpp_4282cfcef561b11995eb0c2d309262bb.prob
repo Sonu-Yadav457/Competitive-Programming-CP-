@@ -1,0 +1,1 @@
+{"name":"Local: 1560A","url":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\1560A.cpp","tests":[{"id":1782237579572,"input":"10\n1\n2\n3\n4\n5\n6\n7\n8\n9\n1000","output":"1\n2\n4\n5\n7\n8\n10\n11\n14\n1666"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\1560A.cpp","group":"local","local":true}
