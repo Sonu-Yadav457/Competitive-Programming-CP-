@@ -1,0 +1,1 @@
+{"name":"Local: 1367A","url":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\1367A.cpp","tests":[{"id":1783272649529,"input":"4\nabbaac\nac\nbccddaaf\nzzzzzzzzzz","output":"abac\nac\nbcdaf\nzzzzzz"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\1367A.cpp","group":"local","local":true}
