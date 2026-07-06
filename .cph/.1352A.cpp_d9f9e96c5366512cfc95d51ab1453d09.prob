@@ -1,0 +1,1 @@
+{"name":"Local: 1352A","url":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\1352A.cpp","tests":[{"id":1783361747063,"input":"5\n5009\n7\n9876\n10000\n10","output":"2\n5000 9\n1\n7 \n4\n800 70 6 9000 \n1\n10000 \n1\n10 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\1352A.cpp","group":"local","local":true}
