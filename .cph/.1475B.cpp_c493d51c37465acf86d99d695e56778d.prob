@@ -1,0 +1,1 @@
+{"name":"Local: 1475B","url":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\1475B.cpp","tests":[{"id":1783876993527,"input":"5\n1\n4041\n4042\n8081\n8079","output":"NO\nYES\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\Development\\CP\\1475B.cpp","group":"local","local":true}
