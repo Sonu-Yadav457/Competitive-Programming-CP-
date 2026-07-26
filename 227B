@@ -1,0 +1,33 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    // Fast I/O for performance optimization
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+
+    int n;
+    cin >> n;
+
+    vector<int> pre(n + 1, 0);
+    vector<int> arr(n + 1, 0);
+
+    for (int i = 1; i <= n; i++) {
+        cin >> arr[i];
+        pre[arr[i]] = i;
+    }
+
+    long long vs = 0, pty = 0;
+    int q;
+    cin >> q;
+
+    for (int i = 1; i <= q; i++) {
+        int a;
+        cin >> a;
+        vs += pre[a];
+        pty += (n - pre[a] + 1);
+    }
+
+    cout << vs << " " << pty << "\n";
+    return 0;
+}
